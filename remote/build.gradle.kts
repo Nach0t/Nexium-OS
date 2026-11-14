@@ -15,8 +15,8 @@ android {
         // API 33: accessibility D-pad actions (GLOBAL_ACTION_DPAD_*) for remote control.
         minSdk = 33
         targetSdk = 37
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.0-alpha"
     }
 
     buildTypes {
